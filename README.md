@@ -16,12 +16,12 @@ python lbf_experiment.py # Saves plots in a .pdf, videos in a .gif, and checkpoi
 ```
 ## Videos for part 2
 ### Non-cooperative
-IQL Non-cooperative:
+IQL Non-cooperative:  
 ![IQL Non-cooperative](source%20code/iql_non_coop.gif)  
-CQL Non-cooperative:
+CQL Non-cooperative:  
 ![CQL Non-cooperative](source%20code/cql_non_coop.gif)  
 ### Cooperative
-IQL Cooperative:
+IQL Cooperative:  
 ![IQL Cooperative](source%20code/iql_coop.gif)  
-CQL Cooperative:
+CQL Cooperative:  
 ![CQL Cooperative](source%20code/cql_coop.gif)  
