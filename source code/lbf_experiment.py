@@ -18,7 +18,7 @@ from cql import CQL
 CONFIG = {
     "seed": 0,
     "gamma": 0.95,
-    "total_eps": 10000,
+    "total_eps": 50000,
     "max_ep_len": 50,
     "eval_freq": 500,
     "lr": 0.05,
